@@ -75,7 +75,7 @@ function App() {
         <Row>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Margherit.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Margherit.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>Margherita</Card.Title>
                 <Card.Title>₹ 199</Card.Title>
@@ -88,13 +88,12 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Fresh_Veggie.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Fresh_Veggie.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>FRESH VEGGIE</Card.Title>
                 <Card.Title>₹ 335</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of
-                  the card's content.
+                  Delicious combination of Onion and Capsicum, a Veggie lover pick.
                 </Card.Text>
                 <Button variant="primary">Add to Cart</Button>
               </Card.Body>
@@ -102,13 +101,12 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>VEGGIE PARADISE</Card.Title>
                 <Card.Title>₹ 395</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of
-                  the card's content.
+                  Perfect combination of Goldern Corn, Black Olives, Capsicum and Red Paprika
                 </Card.Text>
                 <Button variant="primary">Add to Cart</Button>
               </Card.Body>
@@ -129,13 +127,12 @@ function App() {
         <Row>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>PEPPER BARBECUE CHICKEN</Card.Title>
                 <Card.Title>₹ 335</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of
-                  the card's content.
+                  Pepper Barbecue chicken for that extra zing.
                 </Card.Text>
                 <Button variant="primary">Add to Cart</Button>
               </Card.Body>
@@ -143,7 +140,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>Non Veg Supreme</Card.Title>
                 <Card.Title>₹ 570</Card.Title>
@@ -156,7 +153,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/IndianChickenTikka.jpg' height='250' width='250'/>
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/IndianChickenTikka.jpg' height='250' width='250' />
               <Card.Body>
                 <Card.Title>Indi Chicken Tikka</Card.Title>
                 <Card.Title>₹ 570</Card.Title>
