@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pizza-Fever/static/css/main.b5bc74a2.chunk.css",
-    "main.js": "/Pizza-Fever/static/js/main.67ebe356.chunk.js",
-    "main.js.map": "/Pizza-Fever/static/js/main.67ebe356.chunk.js.map",
+    "main.js": "/Pizza-Fever/static/js/main.8f3c78a5.chunk.js",
+    "main.js.map": "/Pizza-Fever/static/js/main.8f3c78a5.chunk.js.map",
     "runtime-main.js": "/Pizza-Fever/static/js/runtime-main.de9c3e9b.js",
     "runtime-main.js.map": "/Pizza-Fever/static/js/runtime-main.de9c3e9b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Pizza-Fever/static/css/2.af3c1da9.chunk.css",
     "static/js/2.83451218.chunk.js": "/Pizza-Fever/static/js/2.83451218.chunk.js",
     "static/js/2.83451218.chunk.js.map": "/Pizza-Fever/static/js/2.83451218.chunk.js.map",
     "index.html": "/Pizza-Fever/index.html",
-    "precache-manifest.7fb25036fb1211241ea23520df8ac1d4.js": "/Pizza-Fever/precache-manifest.7fb25036fb1211241ea23520df8ac1d4.js",
+    "precache-manifest.992e6ae94693f1db59af9f789db7d269.js": "/Pizza-Fever/precache-manifest.992e6ae94693f1db59af9f789db7d269.js",
     "service-worker.js": "/Pizza-Fever/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Pizza-Fever/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.b5bc74a2.chunk.css.map": "/Pizza-Fever/static/css/main.b5bc74a2.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.83451218.chunk.js",
     "static/css/main.b5bc74a2.chunk.css",
-    "static/js/main.67ebe356.chunk.js"
+    "static/js/main.8f3c78a5.chunk.js"
   ]
 }

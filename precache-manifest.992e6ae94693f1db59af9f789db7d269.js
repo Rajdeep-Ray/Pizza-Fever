@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78d9627119b191bb5b15fa5239de7c42",
+    "revision": "01dceb5dd985bdc8982af65e90515959",
     "url": "/Pizza-Fever/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pizza-Fever/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6b4e38c9d14eaf0efee4",
+    "revision": "ef7d03ed3ee4d37628d4",
     "url": "/Pizza-Fever/static/css/main.b5bc74a2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pizza-Fever/static/js/2.83451218.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b4e38c9d14eaf0efee4",
-    "url": "/Pizza-Fever/static/js/main.67ebe356.chunk.js"
+    "revision": "ef7d03ed3ee4d37628d4",
+    "url": "/Pizza-Fever/static/js/main.8f3c78a5.chunk.js"
   },
   {
     "revision": "9e02797f77ba1ae63365",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pizza-Fever/precache-manifest.7fb25036fb1211241ea23520df8ac1d4.js"
+  "/Pizza-Fever/precache-manifest.992e6ae94693f1db59af9f789db7d269.js"
 );
 
 self.addEventListener('message', (event) => {
