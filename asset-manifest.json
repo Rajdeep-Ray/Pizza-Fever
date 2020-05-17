@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pizza-fever/static/css/main.b5bc74a2.chunk.css",
+    "main.js": "/pizza-fever/static/js/main.de3c85ec.chunk.js",
+    "main.js.map": "/pizza-fever/static/js/main.de3c85ec.chunk.js.map",
+    "runtime-main.js": "/pizza-fever/static/js/runtime-main.779ea504.js",
+    "runtime-main.js.map": "/pizza-fever/static/js/runtime-main.779ea504.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/pizza-fever/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83451218.chunk.js": "/pizza-fever/static/js/2.83451218.chunk.js",
+    "static/js/2.83451218.chunk.js.map": "/pizza-fever/static/js/2.83451218.chunk.js.map",
+    "index.html": "/pizza-fever/index.html",
+    "precache-manifest.bb5bd20c281b034c9bb38709e986cdb1.js": "/pizza-fever/precache-manifest.bb5bd20c281b034c9bb38709e986cdb1.js",
+    "service-worker.js": "/pizza-fever/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/pizza-fever/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b5bc74a2.chunk.css.map": "/pizza-fever/static/css/main.b5bc74a2.chunk.css.map",
+    "static/js/2.83451218.chunk.js.LICENSE.txt": "/pizza-fever/static/js/2.83451218.chunk.js.LICENSE.txt",
+    "static/media/pizza.png": "/pizza-fever/static/media/pizza.9e63f21d.png",
+    "static/media/pizzaHori-1.jpg": "/pizza-fever/static/media/pizzaHori-1.d0075937.jpg",
+    "static/media/pizzaHori-2.jpg": "/pizza-fever/static/media/pizzaHori-2.239386b1.jpg",
+    "static/media/pizzaHori-3.jpg": "/pizza-fever/static/media/pizzaHori-3.c070fb91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.779ea504.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83451218.chunk.js",
+    "static/css/main.b5bc74a2.chunk.css",
+    "static/js/main.de3c85ec.chunk.js"
+  ]
+}
