@@ -75,7 +75,7 @@ function App() {
         <Row>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Margherit.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Margherit.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>Margherita</Card.Title>
                 <Card.Title>₹ 199</Card.Title>
@@ -88,7 +88,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Fresh_Veggie.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Fresh_Veggie.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>FRESH VEGGIE</Card.Title>
                 <Card.Title>₹ 335</Card.Title>
@@ -102,7 +102,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>VEGGIE PARADISE</Card.Title>
                 <Card.Title>₹ 395</Card.Title>
@@ -129,7 +129,7 @@ function App() {
         <Row>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>PEPPER BARBECUE CHICKEN</Card.Title>
                 <Card.Title>₹ 335</Card.Title>
@@ -143,7 +143,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>Non Veg Supreme</Card.Title>
                 <Card.Title>₹ 570</Card.Title>
@@ -156,7 +156,7 @@ function App() {
           </Col>
           <Col>
             <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/IndianChickenTikka.jpg' height='250' />
+              <Card.Img variant="top" src='https://www.dominos.co.in/files/items/IndianChickenTikka.jpg' height='250' width='250'/>
               <Card.Body>
                 <Card.Title>Indi Chicken Tikka</Card.Title>
                 <Card.Title>₹ 570</Card.Title>
@@ -171,9 +171,19 @@ function App() {
       </Container>
       <br />
       <div className="Footer">
-        <h1>Demo</h1>
+        <br />
+        <h1>Pizza Fever</h1>
+        <h5>We not only deliver Pizzas but also deliver happiness. Your happiness is our earning</h5>
+        <hr />
+        <h4>
+          THANK YOU, VISIT AGAIN
+        </h4>
+        <h7>
+          © Pizza Fever | 2020
+        </h7>
+        <br />
+        <br />
       </div>
-
     </div>
   );
 }
